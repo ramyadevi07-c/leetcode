@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/ramyadevi07-c/leetcode/tree/master/1207-unique-number-of-occurrences) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ramyadevi07-c/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ramyadevi07-c/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
