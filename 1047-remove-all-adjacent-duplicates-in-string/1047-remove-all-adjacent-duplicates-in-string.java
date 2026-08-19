@@ -9,10 +9,10 @@ class Solution {
                 stack.push(ch);
             }
         }
-        String str = "";
+        StringBuilder str = new StringBuilder();
         for(char ch:stack){
-            str+=ch;
+            str.append(ch);
         }
-        return str;
+        return str.toString();
     }
 }
