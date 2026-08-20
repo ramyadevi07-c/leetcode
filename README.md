@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramyadevi07-c/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0682-baseball-game](https://github.com/ramyadevi07-c/leetcode/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/ramyadevi07-c/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1207-unique-number-of-occurrences](https://github.com/ramyadevi07-c/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ramyadevi07-c/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramyadevi07-c/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/ramyadevi07-c/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ramyadevi07-c/leetcode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/ramyadevi07-c/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ramyadevi07-c/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ramyadevi07-c/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ramyadevi07-c/leetcode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/ramyadevi07-c/leetcode/tree/master/0946-validate-stack-sequences) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ramyadevi07-c/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
