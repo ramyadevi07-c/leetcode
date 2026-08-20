@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ramyadevi07-c/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/ramyadevi07-c/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ramyadevi07-c/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Linked List
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ramyadevi07-c/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ramyadevi07-c/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ramyadevi07-c/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/ramyadevi07-c/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ramyadevi07-c/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ramyadevi07-c/leetcode/tree/master/0328-odd-even-linked-list) |
@@ -61,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ramyadevi07-c/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ramyadevi07-c/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0844-backspace-string-compare](https://github.com/ramyadevi07-c/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ramyadevi07-c/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ramyadevi07-c/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
 | ------- |
