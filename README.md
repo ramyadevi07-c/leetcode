@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ramyadevi07-c/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ramyadevi07-c/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2390-removing-stars-from-a-string](https://github.com/ramyadevi07-c/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/ramyadevi07-c/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ramyadevi07-c/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0844-backspace-string-compare](https://github.com/ramyadevi07-c/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ramyadevi07-c/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/ramyadevi07-c/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ramyadevi07-c/leetcode/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/ramyadevi07-c/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->
