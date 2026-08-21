@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ramyadevi07-c/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2390-removing-stars-from-a-string](https://github.com/ramyadevi07-c/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ramyadevi07-c/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/ramyadevi07-c/leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ramyadevi07-c/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
@@ -120,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ramyadevi07-c/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/ramyadevi07-c/leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 <!---LeetCode Topics End-->
