@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ramyadevi07-c/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ramyadevi07-c/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ramyadevi07-c/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1528-shuffle-string](https://github.com/ramyadevi07-c/leetcode/tree/master/1528-shuffle-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ramyadevi07-c/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ramyadevi07-c/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/ramyadevi07-c/leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ramyadevi07-c/leetcode/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/ramyadevi07-c/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1207-unique-number-of-occurrences](https://github.com/ramyadevi07-c/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1528-shuffle-string](https://github.com/ramyadevi07-c/leetcode/tree/master/1528-shuffle-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ramyadevi07-c/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ramyadevi07-c/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/ramyadevi07-c/leetcode/tree/master/3925-concatenate-array-with-reverse) |
