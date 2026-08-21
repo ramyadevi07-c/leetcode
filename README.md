@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/ramyadevi07-c/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1207-unique-number-of-occurrences](https://github.com/ramyadevi07-c/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ramyadevi07-c/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ramyadevi07-c/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramyadevi07-c/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ramyadevi07-c/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Queue
 |  |
 | ------- |
