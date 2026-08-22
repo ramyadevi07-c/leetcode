@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ramyadevi07-c/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ramyadevi07-c/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/ramyadevi07-c/leetcode/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/ramyadevi07-c/leetcode/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/ramyadevi07-c/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ramyadevi07-c/leetcode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/ramyadevi07-c/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [3668-restore-finishing-order](https://github.com/ramyadevi07-c/leetcode/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/ramyadevi07-c/leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ramyadevi07-c/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Linked List
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ramyadevi07-c/leetcode/tree/master/0056-merge-intervals) |
+| [3731-find-missing-elements](https://github.com/ramyadevi07-c/leetcode/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
 | ------- |
