@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/ramyadevi07-c/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ramyadevi07-c/leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/ramyadevi07-c/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramyadevi07-c/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ramyadevi07-c/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ramyadevi07-c/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/ramyadevi07-c/leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ramyadevi07-c/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
