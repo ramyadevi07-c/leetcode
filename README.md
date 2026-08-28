@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ramyadevi07-c/leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/ramyadevi07-c/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ramyadevi07-c/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ramyadevi07-c/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0137-single-number-ii) |
@@ -150,6 +151,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ramyadevi07-c/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ramyadevi07-c/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0137-single-number-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ramyadevi07-c/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
