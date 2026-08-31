@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ramyadevi07-c/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ramyadevi07-c/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -174,8 +175,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ramyadevi07-c/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ramyadevi07-c/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/ramyadevi07-c/leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
