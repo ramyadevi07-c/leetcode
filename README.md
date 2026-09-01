@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/ramyadevi07-c/leetcode/tree/master/0257-binary-tree-paths) |
 | [0771-jewels-and-stones](https://github.com/ramyadevi07-c/leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/ramyadevi07-c/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ramyadevi07-c/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ramyadevi07-c/leetcode/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/ramyadevi07-c/leetcode/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ramyadevi07-c/leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ramyadevi07-c/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ramyadevi07-c/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ramyadevi07-c/leetcode/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/ramyadevi07-c/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ramyadevi07-c/leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ramyadevi07-c/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ramyadevi07-c/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
