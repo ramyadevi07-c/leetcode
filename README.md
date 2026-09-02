@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ramyadevi07-c/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/ramyadevi07-c/leetcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyadevi07-c/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/ramyadevi07-c/leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/ramyadevi07-c/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ramyadevi07-c/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyadevi07-c/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ramyadevi07-c/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/ramyadevi07-c/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ramyadevi07-c/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/ramyadevi07-c/leetcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyadevi07-c/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/ramyadevi07-c/leetcode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/ramyadevi07-c/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramyadevi07-c/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0523-continuous-subarray-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ramyadevi07-c/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ramyadevi07-c/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ramyadevi07-c/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -233,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ramyadevi07-c/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
