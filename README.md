@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ramyadevi07-c/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/ramyadevi07-c/leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/ramyadevi07-c/leetcode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ramyadevi07-c/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/ramyadevi07-c/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramyadevi07-c/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ramyadevi07-c/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ramyadevi07-c/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ramyadevi07-c/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Queue
 |  |
 | ------- |
