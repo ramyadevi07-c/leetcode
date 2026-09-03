@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ramyadevi07-c/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ramyadevi07-c/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/ramyadevi07-c/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ramyadevi07-c/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/ramyadevi07-c/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ramyadevi07-c/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ramyadevi07-c/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ramyadevi07-c/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/ramyadevi07-c/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ramyadevi07-c/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ramyadevi07-c/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/ramyadevi07-c/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ramyadevi07-c/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/ramyadevi07-c/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ramyadevi07-c/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ramyadevi07-c/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ramyadevi07-c/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/ramyadevi07-c/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
 |  |
