@@ -16,6 +16,9 @@
 class Solution {
     public int maxLevelSum(TreeNode root) {
         Queue<TreeNode> que = new LinkedList<>();
+        if(root == null){
+            return 0;
+        }
         que.offer(root);
         int level = 1;
         int maxlevel=level;
