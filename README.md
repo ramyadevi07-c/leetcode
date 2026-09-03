@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ramyadevi07-c/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ramyadevi07-c/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ramyadevi07-c/leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/ramyadevi07-c/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ramyadevi07-c/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramyadevi07-c/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ramyadevi07-c/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ramyadevi07-c/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/ramyadevi07-c/leetcode/tree/master/0496-next-greater-element-i) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0523-continuous-subarray-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ramyadevi07-c/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
