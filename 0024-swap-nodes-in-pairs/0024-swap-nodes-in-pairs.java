@@ -8,34 +8,39 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+ class Solution{
+    public ListNode swapPairs(ListNode head){
+        ListNode swap = new ListNode(0);
+        swap.next = head ;
+        ListNode curr = swap;
+        while(curr.next!=null && curr.next.next!=null){
+            ListNode first = curr.next;
+            ListNode second = curr.next.next;
+             // swap
+            first.next = second.next;
+            second.next = first;
+            curr.next = second;
+            curr=first;
+        }
+        return swap.next;
+    }
+ }
+//THE DOWN SOLUTION ALSO CORRECT ...
+
 // class Solution {
 //     public ListNode swapPairs(ListNode head) {
-//         ListNode temp= head;
-//         ListNode current= temp;
-//         while(temp.next!=null){
-//             current = temp;
-//             temp = temp.next;
-//             current.next = current.next.next;
-//             temp.next=current;
-//             temp = current.next;
+//         ListNode dummy = new ListNode(0);
+//         dummy.next = head;
+//         ListNode prev = dummy; 
+//         while (head != null && head.next != null) {
+//             ListNode firstnode = head;
+//             ListNode secondnode = head.next;
+//             prev.next = secondnode;               
+//             firstnode.next = secondnode.next;     
+//             secondnode.next = firstnode;          
+//             prev = firstnode;
+//             head = firstnode.next;
 //         }
-//         return head;
+//         return dummy.next;
 //     }
 // }
-class Solution {
-    public ListNode swapPairs(ListNode head) {
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-        ListNode prev = dummy; 
-        while (head != null && head.next != null) {
-            ListNode firstnode = head;
-            ListNode secondnode = head.next;
-            prev.next = secondnode;               
-            firstnode.next = secondnode.next;     
-            secondnode.next = firstnode;          
-            prev = firstnode;
-            head = firstnode.next;
-        }
-        return dummy.next;
-    }
-}
