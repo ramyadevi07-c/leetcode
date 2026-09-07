@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ramyadevi07-c/leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/ramyadevi07-c/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0941-valid-mountain-array](https://github.com/ramyadevi07-c/leetcode/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/ramyadevi07-c/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1207-unique-number-of-occurrences](https://github.com/ramyadevi07-c/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1528-shuffle-string](https://github.com/ramyadevi07-c/leetcode/tree/master/1528-shuffle-string) |
