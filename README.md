@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ramyadevi07-c/leetcode/tree/master/0257-binary-tree-paths) |
+| [0389-find-the-difference](https://github.com/ramyadevi07-c/leetcode/tree/master/0389-find-the-difference) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ramyadevi07-c/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0771-jewels-and-stones](https://github.com/ramyadevi07-c/leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/ramyadevi07-c/leetcode/tree/master/0844-backspace-string-compare) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/ramyadevi07-c/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/ramyadevi07-c/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/ramyadevi07-c/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyadevi07-c/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ramyadevi07-c/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ramyadevi07-c/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/ramyadevi07-c/leetcode/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/ramyadevi07-c/leetcode/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ramyadevi07-c/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ramyadevi07-c/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0137-single-number-ii) |
+| [0389-find-the-difference](https://github.com/ramyadevi07-c/leetcode/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |
