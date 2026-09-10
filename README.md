@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ramyadevi07-c/leetcode/tree/master/0013-roman-to-integer) |
 | [0257-binary-tree-paths](https://github.com/ramyadevi07-c/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/ramyadevi07-c/leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/ramyadevi07-c/leetcode/tree/master/0389-find-the-difference) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ramyadevi07-c/leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/ramyadevi07-c/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ramyadevi07-c/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ramyadevi07-c/leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/ramyadevi07-c/leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramyadevi07-c/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0415-add-strings](https://github.com/ramyadevi07-c/leetcode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0523-continuous-subarray-sum) |
