@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ramyadevi07-c/leetcode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/ramyadevi07-c/leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/ramyadevi07-c/leetcode/tree/master/0389-find-the-difference) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ramyadevi07-c/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0771-jewels-and-stones](https://github.com/ramyadevi07-c/leetcode/tree/master/0771-jewels-and-stones) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ramyadevi07-c/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/ramyadevi07-c/leetcode/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/ramyadevi07-c/leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ramyadevi07-c/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/ramyadevi07-c/leetcode/tree/master/0496-next-greater-element-i) |
