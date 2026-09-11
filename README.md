@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ramyadevi07-c/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/ramyadevi07-c/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ramyadevi07-c/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ramyadevi07-c/leetcode/tree/master/0088-merge-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ramyadevi07-c/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/ramyadevi07-c/leetcode/tree/master/0713-subarray-product-less-than-k) |
