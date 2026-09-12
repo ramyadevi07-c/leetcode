@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/ramyadevi07-c/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1528-shuffle-string](https://github.com/ramyadevi07-c/leetcode/tree/master/1528-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/ramyadevi07-c/leetcode/tree/master/1652-defuse-the-bomb) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ramyadevi07-c/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ramyadevi07-c/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ramyadevi07-c/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ramyadevi07-c/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ramyadevi07-c/leetcode/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/ramyadevi07-c/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ramyadevi07-c/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ramyadevi07-c/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3668-restore-finishing-order](https://github.com/ramyadevi07-c/leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/ramyadevi07-c/leetcode/tree/master/3731-find-missing-elements) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ramyadevi07-c/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ramyadevi07-c/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Pigeonhole Principle
 |  |
