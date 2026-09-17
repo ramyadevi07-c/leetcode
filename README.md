@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/ramyadevi07-c/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0680-valid-palindrome-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/ramyadevi07-c/leetcode/tree/master/0771-jewels-and-stones) |
+| [0821-shortest-distance-to-a-character](https://github.com/ramyadevi07-c/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/ramyadevi07-c/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ramyadevi07-c/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ramyadevi07-c/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ramyadevi07-c/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/ramyadevi07-c/leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/ramyadevi07-c/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0821-shortest-distance-to-a-character](https://github.com/ramyadevi07-c/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0930-binary-subarrays-with-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/ramyadevi07-c/leetcode/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/ramyadevi07-c/leetcode/tree/master/0946-validate-stack-sequences) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/ramyadevi07-c/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/ramyadevi07-c/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ramyadevi07-c/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ramyadevi07-c/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
