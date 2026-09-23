@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/ramyadevi07-c/leetcode/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ramyadevi07-c/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ramyadevi07-c/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ramyadevi07-c/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/ramyadevi07-c/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ramyadevi07-c/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/ramyadevi07-c/leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ramyadevi07-c/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ramyadevi07-c/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ramyadevi07-c/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ramyadevi07-c/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ramyadevi07-c/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2574-left-and-right-sum-differences](https://github.com/ramyadevi07-c/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ramyadevi07-c/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/ramyadevi07-c/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/ramyadevi07-c/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ramyadevi07-c/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ramyadevi07-c/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ramyadevi07-c/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Floyd's Cycle Finding Algorithm
 |  |
