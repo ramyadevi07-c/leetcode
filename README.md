@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ramyadevi07-c/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ramyadevi07-c/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ramyadevi07-c/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ramyadevi07-c/leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/ramyadevi07-c/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/ramyadevi07-c/leetcode/tree/master/0290-word-pattern) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramyadevi07-c/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/ramyadevi07-c/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ramyadevi07-c/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ramyadevi07-c/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ramyadevi07-c/leetcode/tree/master/0088-merge-sorted-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ramyadevi07-c/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ramyadevi07-c/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ramyadevi07-c/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ramyadevi07-c/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ramyadevi07-c/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramyadevi07-c/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ramyadevi07-c/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ramyadevi07-c/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ramyadevi07-c/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ramyadevi07-c/leetcode/tree/master/0217-contains-duplicate) |
