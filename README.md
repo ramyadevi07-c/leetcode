@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ramyadevi07-c/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ramyadevi07-c/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ramyadevi07-c/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ramyadevi07-c/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ramyadevi07-c/leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/ramyadevi07-c/leetcode/tree/master/0257-binary-tree-paths) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ramyadevi07-c/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ramyadevi07-c/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramyadevi07-c/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/ramyadevi07-c/leetcode/tree/master/0496-next-greater-element-i) |
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ramyadevi07-c/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ramyadevi07-c/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
